@@ -1,3 +1,4 @@
+View my analysis here: https://github.com/Amelchristy/pandas-challenge/blob/main/Heroes%20of%20Pymoli/HeroesOfPymoli.ipynb
 Heroes of Pymoli is a recent free-to-play Fantasy Game. In this repository, I would like to generate to generate a report that breaks down the game's purchasing data into meaningful insights. This project is written in Python.
 
 My observations based on my report,
